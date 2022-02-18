@@ -1,4 +1,4 @@
-console.log("Load script.js");
+console.log("Hello?");
 
 // Instantiating the global app object
 var app = {};
